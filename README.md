@@ -1,41 +1,37 @@
 <!-- Header -->
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bento.me/christianjs)
+
 <h1 align="center">Hi 👋, I'm Christian JS</h1>
 <h3 align="center">A passionate Mobile Developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tienen1707&label=Profile%20views&color=730a0a&style=plastic" alt="tienen1707" />
-</p>
+</br>
 
 - 🌱 I'm currently studying **Mobile Programming as well.**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/christianjs](https://bento.me/christianjs)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/christian-julianto-sayono-a15aa52ab/](https://www.linkedin.com/in/christian-julianto-sayono-a15aa52ab/)
+- 👨‍💻 All of my projects are available at [<img align="center" src="https://img.shields.io/badge/Bento-333333?style=for-the-badge&logo=bento&logoColor=" alt="Bento" />
+](https://bento.me/christianjs)
+</br>
 
 <!-- Social Media Links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/https://instagram.com/tianen1707_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/tianen1707_" height="30" width="40" />
+<h3 align="left">🌐 Connect with me</h3>
+<div align="left">
+  <a href="mailto:christianjulianto1707@gmail.com?subject=" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://fb.com/100054201216423" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100054201216423" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/tienen1707" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tienen1707" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@tianen-su6ty" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tianen-su6ty" height="30" width="40" />
+  <a href="https://instagram.com/tianen1707_" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/christian-julianto-sayono-a15aa52ab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-julianto-sayono-a15aa52ab" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
+
+</br>
 
 <!-- Skills Section -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack</h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -106,22 +102,48 @@
   </a>
 </p>
 
-<!-- GitHub Trophies -->
-<h3 align="left">GitHub Trophies:</h3>
+</br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tienen1707&theme=radical" alt="tienen1707" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&theme=radical" alt="tienen1707" />
+      </td>
+      <td align="center" width="50%">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienen1707&show_icons=true&locale=en&layout=compact&theme=radical" alt="tienen1707" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</br>
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tienen1707&theme=onedark" alt="tienen1707" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienen1707&theme=onedark" alt="tienen1707" /></a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tienen1707&theme=radical" alt="tienen1707" />
-</p>
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&theme=radical" alt="tienen1707" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienen1707&show_icons=true&locale=en&layout=compact&theme=radical" alt="tienen1707" />
+</br>
+
+## 🔝 Top Contributed Repo
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&layout=compact&theme=radical)
+
+</br>
+
+## ✍️ Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</br>
+
+<hr>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tienen1707&label=Profile%20views&color=730a0a&style=for-the-badge" alt="tienen1707" />
 </p>
