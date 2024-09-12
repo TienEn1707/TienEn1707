@@ -17,14 +17,14 @@
 <!-- Social Media Links -->
 <h3 align="left">🌐 Connect with me</h3>
 <div align="left">
-  <a href="mailto:christianjulianto1707@gmail.com?subject=" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
   <a href="https://instagram.com/tianen1707_" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/christian-julianto-sayono-a15aa52ab" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:christianjulianto1707@gmail.com?subject=" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
 </div>
 
