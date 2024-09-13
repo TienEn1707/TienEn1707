@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienen1707&theme=onedark" alt="tienen1707" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienen1707&theme=dracula" alt="tienen1707" /></a>
 </p>
 
 </br>
