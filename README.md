@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienen1707&theme=dracula" alt="tienen1707" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tienen1707&theme=radical" alt="tienen1707" /></a>
 </p>
 
 </br>
@@ -62,7 +62,7 @@
 
 ## ✍️ Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </br>
 
