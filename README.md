@@ -56,7 +56,7 @@
 
 ## 🔝 Top Contributed Repo
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&layout=compact&theme=radical)
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&layout=compact&theme=radical)
 
 </br>
 
