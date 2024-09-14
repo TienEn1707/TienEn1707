@@ -17,7 +17,7 @@
 <!-- Social Media Links -->
 <h3 align="left">🌐 Connect with me</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tianen1707_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-julianto-sayono-a15aa52ab) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:christianjulianto1707@gmail.com?subject=Hi%20Christian%2C%20I%20would%20like%20to%20collaborate%20with%20you%2E)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tianen1707_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-julianto-sayono-a15aa52ab) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:christianjulianto1707@gmail.com?subject=Collaborate&body=Hi%20Christian%2C%20I%20would%20like%20to%20collaborate%20with%20you.)
 
 </br>
 
