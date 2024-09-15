@@ -69,3 +69,5 @@
 <hr>
 
 [![](https://visitcount.itsvg.in/api?id=TienEn1707&label=Profile%20Views&color=10&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- ![](https://komarev.com/ghpvc/?username=tienen1707&abbreviated=true&color=red) -->
