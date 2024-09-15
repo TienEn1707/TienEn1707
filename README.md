@@ -38,7 +38,7 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&theme=radical" alt="tienen1707" />
       </td>
       <td align="center" width="50%">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienen1707&show_icons=true&locale=en&layout=compact&theme=radical" alt="tienen1707" />
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienen1707&show_icons=true&locale=en&theme=radical" alt="tienen1707" />
       </td>
     </tr>
   </table>
