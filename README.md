@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=tienen1707&theme=radical" alt="tienen1707" />
+        <img width="100%" src="https://streak-stats.demolab.com/?user=tienen1707&theme=radical" alt="tienen1707" />
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tienen1707&show_icons=true&locale=en&theme=radical" alt="tienen1707" />
       </td>
       <td align="center" width="50%">
